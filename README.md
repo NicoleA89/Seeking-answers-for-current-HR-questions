@@ -1,6 +1,6 @@
 # Please mind the gap...
-A data based approach using the Stack Overflow developer survey data (2017)
+# A data based approach using the Stack Overflow developer survey data (2017)
 
-Vor dem Hintergrund von Fachkräftemandel und dem demografischen Wandel ist es für Unternehmen zunehmend schwer, qualifiziertes (IT-)Fachpersonal zu finden. In diesem Artikel wurde untersucht, auf welchen Jobportalen weltweit und in Deutschland qualifizierte Entwickler angetroffen werden können. Auch der Frage danach, auf welchen Portalen sich IT-Fach-Frauen vornehmlich aufhalten wird dabei nachgegangen.
+# Given the (current and future) shortage of skilled workers and demographic change, it is increasingly difficult for companies to find qualified (IT)-professionals. In this article I examined on which job portals worldwide and in Germany qualified developers can be found. The question as to which portals female IT professionals can primarily be found is also being investigated.
 
-On which job portals can you find qualified developers as a German Company?
+# On which job portals can you find qualified developers as a German Company?

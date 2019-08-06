@@ -1,4 +1,4 @@
-# Please mind the gap...
+# IT professionals from the perspective of HR
 A data based approach using the Stack Overflow developer survey data (2017)
 
 ## Introduction

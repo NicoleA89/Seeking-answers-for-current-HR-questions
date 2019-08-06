@@ -15,4 +15,6 @@ On this chart you can see the top 8 job portals that the survey participants  fr
 ## Findings
 Insgesamt zeigt diese Betrachtung, dass weltweit für Unternehmen, die nach IT Fachkräften suchen, LinkedIn als erste Anlaufstelle verwendet werden sollte, da dort rund 2/3 der Befragten mit einem Account vertreten sind. Bei dem Vergleich mit Deutschland zeigt sich, dass LinkedIn zwar weiterhin vertreten ist und hier auch rund 1/3 der Befragten einen Account haben, das beliebteste Jobportal in Deutschland ist für IT professionals jedoch Xing. Hier haben rund 2/3 der Befragten professionals aus Deutschland einen Account.
 
-Möchtest Du Dein berufliches Netzwerk im Umfeld von IT professionals erweitern? Bist Du auf der Suche nach Gleichgesinnten oder eventuell sogar als Hiring Manager nach IT professionals? Dann weißt Du nun, was zu tun ist!
+Overall this analysis shows that, for companies looking for IT professionals, LinkedIn is the most promising adress worldwide. Compared with Germany LinkedIn is still represented, but the most popular job portal in Germany for IT professionals is Xing.
+
+Would you like to expand your professional network in the environment of IT professionals? Are you looking for like-minded people or even  for IT professionals as a company? Then you know now what to do!

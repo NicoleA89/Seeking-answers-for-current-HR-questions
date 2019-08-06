@@ -6,8 +6,8 @@ Given the (current and future) shortage of skilled workers and demographic chang
 
 Perhaps you have noticed how companies already have to fight for professionals - especially in the field of IT. With that in mind, let´s find out with the data from the Stack Overflow developer survey (2017) on which job portals the participants are present. The survey data was taken by more than 50,000 participants and aims to understand different aspects of job related questions.
 
-
-Allgemein für alle 3 Fragen!!!
+Blabla gender pay gap
+blabla flexible arbeitsmodelle / homeoffice
 
 
 ## Q1: On which job portals can (German) companies find qualified developers?
@@ -24,7 +24,7 @@ Overall this analysis shows that, for companies looking for IT professionals, Li
 Would you like to expand your professional network in the environment of IT professionals? Are you looking for like-minded people or even  for IT professionals as a company? Then you know now what to do!
 
 
-## Q2: ...
+## Q2: How does the salary differ between genders based on years of coding?
 ...
 
 

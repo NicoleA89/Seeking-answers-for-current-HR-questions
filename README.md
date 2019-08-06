@@ -14,7 +14,11 @@ blabla flexible arbeitsmodelle / homeoffice
 
 Half of the participants answered this question, so the results are based on just under 25,000 participants, who could answer this question with multiple answer options. To get an overview where to find the top candidates, only the top 8 job portals were considered in this article.
 
+![Job Portals - All Countries](/images/JobPortals_all.png)
+
 On this chart you can see the top 8 job portals that the survey participants  from all countries use. Linkedin is by far the most popular job portal with a share of 60 %. It is followed by Xing (8,4 %), Monster (7,1 %) and Indeed (6,8 %).
+
+![Job Portals - Germany](/images/JobPortals_germany.png)
 
 ## Findings
 Insgesamt zeigt diese Betrachtung, dass weltweit für Unternehmen, die nach IT Fachkräften suchen, LinkedIn als erste Anlaufstelle verwendet werden sollte, da dort rund 2/3 der Befragten mit einem Account vertreten sind. Bei dem Vergleich mit Deutschland zeigt sich, dass LinkedIn zwar weiterhin vertreten ist und hier auch rund 1/3 der Befragten einen Account haben, das beliebteste Jobportal in Deutschland ist für IT professionals jedoch Xing. Hier haben rund 2/3 der Befragten professionals aus Deutschland einen Account.

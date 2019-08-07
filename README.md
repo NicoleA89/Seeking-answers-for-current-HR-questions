@@ -1,5 +1,6 @@
 # Looking for IT professionals
-A data based approach using the Stack Overflow developer survey data (2017)
+*A data based approach using the Stack Overflow developer survey data (2017)*
+
 
 ## Introduction
 Given the (current and future) shortage of skilled workers and demographic change, it is increasingly difficult for companies to find qualified (IT)-professionals. In this article I examined on which job portals worldwide and in Germany qualified developers can be found. The question as to which portals female IT professionals can primarily be found is also being investigated.
@@ -8,6 +9,7 @@ Perhaps you have noticed how companies already have to fight for professionals -
 
 Blabla gender pay gap
 blabla flexible arbeitsmodelle / homeoffice
+
 
 ## Finding IT professionals
 ### On which job portals can (German) companies find qualified developers?

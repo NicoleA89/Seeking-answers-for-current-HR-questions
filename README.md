@@ -1,4 +1,4 @@
-# Looking for IT professionals
+# The war for talents
 *A data based approach using the Stack Overflow developer survey data (2017)*
 
 

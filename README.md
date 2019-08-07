@@ -1,24 +1,23 @@
 # IT professionals
-*A data based approach based on the Stack Overflow developer survey data (2017)*
+*A data based approach based on the Stack Overflow developer survey data (2017). The survey data was taken by more than 50,000 participants and aims to understand different aspects of job related questions*
 
 ## Introduction
 Given the current shortage of skilled workers and demographic change, it is increasingly difficult for companies to find qualified talents - especially in the IT segment. Where can companies find qualified IT profossionals? What should an employer offer those professionals in terms of salary or workplace flexibility? This investigation will help to get an overview of where to **find those talents**, how much **salary** they are used to and in which extend they usually **work remote**. So let´s dig in and take a close look!
 
 ## The war for talents
 ### On which job portals can (German) companies find qualified IT professionals?
-
-In this article I examined on which job portals worldwide and in Germany qualified developers can be found. The question as to which portals female IT professionals can primarily be found is also being investigated. Perhaps you have noticed how companies already have to fight for professionals - especially in the field of IT. With that in mind, let´s find out with the data from the Stack Overflow developer survey (2017) on which job portals the participants are present. The survey data was taken by more than 50,000 participants and aims to understand different aspects of job related questions.
-
-Half of the participants answered this question, so the results are based on just under 25,000 participants, who could answer this question with multiple answer options. To get an overview where to find the top candidates, only the top 8 job portals were considered in this article.
+On which job portals worldwide and in Germany can employers find qualified IT professionals? The war for talents is getting tougher - especially in the IT segment. Let´s find out with the data from the Stack Overflow developer survey (2017) which job portals the IT professionals use. The professionals were asked to list all job portals where they have a profile. In the table below you can see the TOP 5 answers to this question.
 
 ![Job Portals - All Countries](/images/JobPortals_all.png)
 
-On this chart you can see the top 8 job portals that the survey participants  from all countries use. Linkedin is by far the most popular job portal with a share of 60 %. It is followed by Xing (~ 8 %), Monster (~ 7 %) and Indeed (~ 7 %).
+Here you can see that LinkedIn is the most popular job portal with a share of 60 %. It is followed by Xing (~ 8 %), Monster (~ 7 %) and Indeed (~ 7 %).
 
 ![Job Portals - Germany](/images/JobPortals_germany.png)
 
+Here you can see that Xing is by the most popular job portal with a share of 60 %. It is followed by LinkedIn (~ 28 %), Monster (~ 3 %) and StepStone (~ 3 %).
+
 ## Findings
-Overall this analysis shows that, for companies looking for IT professionals, LinkedIn is the most promising adress worldwide. Compared with Germany LinkedIn is still represented, but the most popular job portal in Germany for IT professionals is Xing.
+Overall this analysis shows that LinkedIn is the most promising adress worldwide if you are looking for IT professionals. In Germany LinkedIn is still well represented, but the most popular job portal for IT professionals in Germany is Xing.
 
 Would you like to expand your professional network in the environment of IT professionals? Are you looking for like-minded people or even  for IT professionals as a company? Then you know now what to do!
 

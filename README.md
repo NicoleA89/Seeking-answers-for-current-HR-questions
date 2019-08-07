@@ -28,6 +28,7 @@ Overall this analysis shows that, for companies looking for IT professionals, Li
 Would you like to expand your professional network in the environment of IT professionals? Are you looking for like-minded people or even  for IT professionals as a company? Then you know now what to do!
 
 
+
 ## Please mind the gap...
 ### How does the salary differ between genders based on years of coding?
 The gender pay gap is a very frequent discussed topic women earn much less than their male colleagues even if they are doing the same duties. More than 90 % of the participants are "male", 7 % were "female" participants and 3 % specified themselves as "other".  In the table you can see, that the gender gap cannot be found in this survey. 
@@ -35,7 +36,7 @@ The gender pay gap is a very frequent discussed topic women earn much less than 
 ![Salary Gender](/images/Salary_gender.png)
 
 ## Findings
-...
+The table shows that the line is much more straight for male salary. This can be explained by the fact that the number of participants is significantly higher for males. The results show that the gender pay gap is not confirmed. is it because the women who visit such a website and participated in the survey are particularly qualified and tough? Or do we have to redefine the gender pay gap and worry about male salaries!?
 
 
 ## Q3: ...

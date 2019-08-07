@@ -1,4 +1,4 @@
-# IT professionals from the perspective of HR
+# Looking for IT professionals
 A data based approach using the Stack Overflow developer survey data (2017)
 
 ## Introduction

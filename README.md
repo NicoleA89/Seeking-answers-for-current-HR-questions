@@ -4,7 +4,7 @@
 ## Introduction
 Given the current shortage of skilled workers and demographic change, it is increasingly difficult for companies to find qualified talents - especially in the IT segment. Where can companies find qualified IT profossionals? What should an employer offer those professionals in terms of salary or workplace flexibility? This investigation will help to get an overview of where to **find those talents**, how much **salary** they are used to and in which extend they usually **work remote**. So let´s dig in and take a close look!
 
-## The war for talents
+## The war for talents...
 ### On which job portals can (German) companies find qualified IT professionals?
 On which job portals worldwide and in Germany can employers find qualified IT professionals? The war for talents is getting tougher - especially in the IT segment. Let´s find out with the data from the Stack Overflow developer survey (2017) which job portals the IT professionals use. The professionals were asked to list all job portals where they have a profile. In the table below you can see the TOP 5 answers to this question.
 
@@ -31,7 +31,9 @@ The gender pay gap is a very frequent discussed topic women earn much less than 
 The table shows that the line is much more straight for male salary. This can be explained by the fact that the number of participants is significantly higher for males. The results show that the gender pay gap is not confirmed. is it because the women who visit such a website and participated in the survey are particularly qualified and tough? Or do we have to redefine the gender pay gap and worry about male salaries!?
 
 
-## Q3: ...
+## Work wherever you want...
+### What impact does the size of a company have on whether employees work remotely?
+
 ...
 
 

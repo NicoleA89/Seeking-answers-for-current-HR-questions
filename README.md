@@ -9,8 +9,8 @@ Perhaps you have noticed how companies already have to fight for professionals -
 Blabla gender pay gap
 blabla flexible arbeitsmodelle / homeoffice
 
-
-## Q1: On which job portals can (German) companies find qualified developers?
+## Finding IT professionals
+### On which job portals can (German) companies find qualified developers?
 
 Half of the participants answered this question, so the results are based on just under 25,000 participants, who could answer this question with multiple answer options. To get an overview where to find the top candidates, only the top 8 job portals were considered in this article.
 
@@ -28,7 +28,8 @@ Overall this analysis shows that, for companies looking for IT professionals, Li
 Would you like to expand your professional network in the environment of IT professionals? Are you looking for like-minded people or even  for IT professionals as a company? Then you know now what to do!
 
 
-## Q2: How does the salary differ between genders based on years of coding?
+## Please mind the gap...
+### How does the salary differ between genders based on years of coding?
 ...
 
 

@@ -3,12 +3,12 @@
 
 
 ## Introduction
-Given the (current and future) shortage of skilled workers and demographic change, it is increasingly difficult for companies to find qualified (IT)-professionals. In this article I examined on which job portals worldwide and in Germany qualified developers can be found. The question as to which portals female IT professionals can primarily be found is also being investigated.
+Given the current shortage of skilled workers and demographic change, it is increasingly difficult for companies to find qualified (IT)-professionals. In this article I examined on which job portals worldwide and in Germany qualified developers can be found. The question as to which portals female IT professionals can primarily be found is also being investigated.
 
 Perhaps you have noticed how companies already have to fight for professionals - especially in the field of IT. With that in mind, let´s find out with the data from the Stack Overflow developer survey (2017) on which job portals the participants are present. The survey data was taken by more than 50,000 participants and aims to understand different aspects of job related questions.
 
-Blabla gender pay gap
-blabla flexible arbeitsmodelle / homeoffice
+# Blabla gender pay gap
+# blabla flexible arbeitsmodelle / homeoffice
 
 
 ## Finding IT professionals
@@ -18,13 +18,11 @@ Half of the participants answered this question, so the results are based on jus
 
 ![Job Portals - All Countries](/images/JobPortals_all.png)
 
-On this chart you can see the top 8 job portals that the survey participants  from all countries use. Linkedin is by far the most popular job portal with a share of 60 %. It is followed by Xing (8,4 %), Monster (7,1 %) and Indeed (6,8 %).
+On this chart you can see the top 8 job portals that the survey participants  from all countries use. Linkedin is by far the most popular job portal with a share of 60 %. It is followed by Xing (~ 8 %), Monster (~ 7 %) and Indeed (~ 7 %).
 
 ![Job Portals - Germany](/images/JobPortals_germany.png)
 
 ## Findings
-Insgesamt zeigt diese Betrachtung, dass weltweit für Unternehmen, die nach IT Fachkräften suchen, LinkedIn als erste Anlaufstelle verwendet werden sollte, da dort rund 2/3 der Befragten mit einem Account vertreten sind. Bei dem Vergleich mit Deutschland zeigt sich, dass LinkedIn zwar weiterhin vertreten ist und hier auch rund 1/3 der Befragten einen Account haben, das beliebteste Jobportal in Deutschland ist für IT professionals jedoch Xing. Hier haben rund 2/3 der Befragten professionals aus Deutschland einen Account.
-
 Overall this analysis shows that, for companies looking for IT professionals, LinkedIn is the most promising adress worldwide. Compared with Germany LinkedIn is still represented, but the most popular job portal in Germany for IT professionals is Xing.
 
 Would you like to expand your professional network in the environment of IT professionals? Are you looking for like-minded people or even  for IT professionals as a company? Then you know now what to do!
@@ -32,8 +30,9 @@ Would you like to expand your professional network in the environment of IT prof
 
 ## Please mind the gap...
 ### How does the salary differ between genders based on years of coding?
-...
+The gender pay gap is a very frequent discussed topic women earn much less than their male colleagues even if they are doing the same duties. More than 90 % of the participants are "male", 7 % were "female" participants and 3 % specified themselves as "other".  In the table you can see, that the gender gap cannot be found in this survey. 
 
+![Salary Gender](/images/Salary_gender.png)
 
 ## Findings
 ...

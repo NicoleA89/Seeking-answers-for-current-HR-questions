@@ -1,10 +1,10 @@
-# The war for talents
+# IT professionals
 *A data based approach based on the Stack Overflow developer survey data (2017)*
 
 ## Introduction
 Given the current shortage of skilled workers and demographic change, it is increasingly difficult for companies to find qualified talents - especially in the IT segment. Where can companies find qualified IT profossionals? What should an employer offer those professionals in terms of salary or workplace flexibility? This investigation will help to get an overview of where to **find those talents**, how much **salary** they are used to and in which extend they usually **work remote**. So let´s dig in and take a close look!
 
-## Finding IT professionals
+## The war for talents
 ### On which job portals can (German) companies find qualified developers?
 
 In this article I examined on which job portals worldwide and in Germany qualified developers can be found. The question as to which portals female IT professionals can primarily be found is also being investigated. Perhaps you have noticed how companies already have to fight for professionals - especially in the field of IT. With that in mind, let´s find out with the data from the Stack Overflow developer survey (2017) on which job portals the participants are present. The survey data was taken by more than 50,000 participants and aims to understand different aspects of job related questions.

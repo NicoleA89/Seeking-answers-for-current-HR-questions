@@ -1,18 +1,13 @@
 # The war for talents
-*A data based approach using the Stack Overflow developer survey data (2017)*
-
+*A data based approach based on the Stack Overflow developer survey data (2017)*
 
 ## Introduction
-Given the current shortage of skilled workers and demographic change, it is increasingly difficult for companies to find qualified (IT)-professionals. In this article I examined on which job portals worldwide and in Germany qualified developers can be found. The question as to which portals female IT professionals can primarily be found is also being investigated.
-
-Perhaps you have noticed how companies already have to fight for professionals - especially in the field of IT. With that in mind, let´s find out with the data from the Stack Overflow developer survey (2017) on which job portals the participants are present. The survey data was taken by more than 50,000 participants and aims to understand different aspects of job related questions.
-
-# Blabla gender pay gap
-# blabla flexible arbeitsmodelle / homeoffice
-
+Given the current shortage of skilled workers and demographic change, it is increasingly difficult for companies to find qualified talents - especially in the IT segment. Where can companies find qualified IT profossionals? What should an employer offer those professionals in terms of salary or workplace flexibility? This investigation will help to get an overview of **where** to find those talents, **how much** salary they are used to and in which extend they usually work remote. So let´s dig in and take a close look!
 
 ## Finding IT professionals
 ### On which job portals can (German) companies find qualified developers?
+
+In this article I examined on which job portals worldwide and in Germany qualified developers can be found. The question as to which portals female IT professionals can primarily be found is also being investigated. Perhaps you have noticed how companies already have to fight for professionals - especially in the field of IT. With that in mind, let´s find out with the data from the Stack Overflow developer survey (2017) on which job portals the participants are present. The survey data was taken by more than 50,000 participants and aims to understand different aspects of job related questions.
 
 Half of the participants answered this question, so the results are based on just under 25,000 participants, who could answer this question with multiple answer options. To get an overview where to find the top candidates, only the top 8 job portals were considered in this article.
 
@@ -26,8 +21,6 @@ On this chart you can see the top 8 job portals that the survey participants  fr
 Overall this analysis shows that, for companies looking for IT professionals, LinkedIn is the most promising adress worldwide. Compared with Germany LinkedIn is still represented, but the most popular job portal in Germany for IT professionals is Xing.
 
 Would you like to expand your professional network in the environment of IT professionals? Are you looking for like-minded people or even  for IT professionals as a company? Then you know now what to do!
-
-
 
 ## Please mind the gap...
 ### How does the salary differ between genders based on years of coding?

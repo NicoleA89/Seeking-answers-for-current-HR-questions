@@ -27,7 +27,7 @@ The gender pay gap is a very frequent discussed topic. Women earn much less than
 
 More than 90 % of the participants are "male", 7 % were "female" participants and 3 % specified themselves as "other".  In the table you can see, that the gender gap cannot be found in this survey. 
 
-![Salary Gender](/images/Salary_gender.png)
+![Salary Gender](/images/GenderPay.png)
 
 ### Findings
 The table shows that the line is much more straight for male salary. This can be explained by the fact that the number of participants is significantly higher for males. The results show that the gender pay gap is not confirmed. is it because the women who visit such a website and participated in the survey are particularly qualified and tough? Or do we have to redefine the gender pay gap and worry about male salaries!?
@@ -42,9 +42,3 @@ The table shows that the line is much more straight for male salary. This can be
 
 ### Findings
 64 % of the survey participants do at least some of their work remote. On the table below you can see that the size of the company doesn´t have much impact on the amount that emploees work remote. There is just a slightly higher proportion of remote working IT professionals in particularly large or particularly small companies.
-
-## Conclusion
-...
-
-
-

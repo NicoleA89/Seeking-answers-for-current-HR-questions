@@ -41,7 +41,7 @@ In summary, answering these questions has provided some clues for companies look
 This enables companies, that are looking for qualified IT professionals, to identify some key data about the target group and use that knowledge to achieve their goals.
 
 ## Detailed analysis report on Medium:
-https://medium.com/@allissat.nicole/seeking-professionals-460ede154455
+https://medium.com/@nicole.a/seeking-professionals-460ede154455
 
 ## Requirements
 pandas, jupyter-notebook

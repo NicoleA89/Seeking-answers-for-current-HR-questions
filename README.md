@@ -16,7 +16,7 @@ Here you can see that LinkedIn is the most popular job portal with a share of 60
 
 Here you can see that Xing is by the most popular job portal with a share of 60 %. It is followed by LinkedIn (~ 28 %), Monster (~ 3 %) and StepStone (~ 3 %).
 
-## Findings
+### Findings
 Overall this analysis shows that LinkedIn is the most promising adress worldwide if you are looking for IT professionals. In Germany LinkedIn is still well represented, but the most popular job portal for IT professionals in Germany is Xing.
 
 Would you like to expand your professional network in the environment of IT professionals? Are you looking for like-minded people or even  for IT professionals as a company? Then you know now what to do!
@@ -29,23 +29,19 @@ More than 90 % of the participants are "male", 7 % were "female" participants an
 
 ![Salary Gender](/images/Salary_gender.png)
 
-## Findings
+### Findings
 The table shows that the line is much more straight for male salary. This can be explained by the fact that the number of participants is significantly higher for males. The results show that the gender pay gap is not confirmed. is it because the women who visit such a website and participated in the survey are particularly qualified and tough? Or do we have to redefine the gender pay gap and worry about male salaries!?
 
 
 ## Work wherever you want...
 ### What impact does the size of a company have on whether employees work remotely?
 
-
 ...
 
 ![Home Remote](/images/HomeRemote.png)
 
-...
-
-## Findings
-...
-
+### Findings
+64 % of the survey participants do at least some of their work remote. On the table below you can see that the size of the company doesn´t have much impact on the amount that emploees work remote. There is just a slightly higher proportion of remote working IT professionals in particularly large or particularly small companies.
 
 ## Conclusion
 ...

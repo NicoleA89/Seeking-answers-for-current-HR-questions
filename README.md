@@ -34,11 +34,10 @@ The table shows that the line is much more straight for male salary. This can be
 
 
 ## Work wherever you want...
-### What impact does the size of a company have on whether employees work remotely?
-
-...
+### What impact does the size of a company have on whether IT profesisonals work remotely?
+Nowadays companies have to offer their IT professionals much more than just a good salary. The flexibility of working hours and the place of work is becoming increasingly important, especially for generation y. With this in mind, the stack overflow survey can help to answer the question of how much the company size affects how many IT professionals work remotely.
 
 ![Home Remote](/images/HomeRemote.png)
 
 ### Findings
-64 % of the survey participants do at least some of their work remote. On the table below you can see that the size of the company doesn´t have much impact on the amount that emploees work remote. There is just a slightly higher proportion of remote working IT professionals in particularly large or particularly small companies.
+64 % of the survey participants do at least some of their work remote. On the table below you can see that the size of the company doesn´t have much impact on the amount that IT professionals work remote. There is just a slightly higher proportion of remote working IT professionals in particularly large or particularly small companies.

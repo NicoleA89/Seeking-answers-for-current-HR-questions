@@ -2,7 +2,7 @@
 *A data based approach based on the results of Stack Overflow developer survey data (2017). The survey data was taken by more than 50,000 participants and aims to understand different aspects of job related questions (the full dataset can be found here: https://www.kaggle.com/stackoverflow/so-survey-2017).*
 
 ## Introduction
-Given the current shortage of skilled workers and demographic change, it is increasingly difficult for companies to find qualified talents - especially in the IT segment. Where can companies find qualified IT profossionals? What should an employer offer those professionals in terms of salary or workplace flexibility? This investigation will help to get an overview of where to **find those talents**, how much **salary** they are used to and in which extend they usually **work remote**. So let´s dig in and take a close look!
+Given the current shortage of skilled workers and demographic change, it is increasingly difficult for companies to find qualified talents - especially in the IT segment. Where can companies find qualified IT profossionals? What should a company offer those professionals in terms of salary or workplace flexibility? This investigation will help to get an overview of where to **find those talents**, how much **salary** they are used to getting and in which extend they usually **work remote**. So let´s dig in and take a close look!
 
 ## The war for talents...
 ### On which job portals can (German) companies find qualified IT professionals?

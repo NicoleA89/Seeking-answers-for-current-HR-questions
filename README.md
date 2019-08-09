@@ -15,7 +15,7 @@ Here you can see that LinkedIn is the most popular job portal with a share of 60
 
 Here you can see that Xing is by the most popular job portal with a share of 60 %. It is followed by LinkedIn (~ 28 %), Monster (~ 3 %) and StepStone (~ 3 %).
 
-###
+### Findings
 Overall this analysis shows that LinkedIn is the most promising adress worldwide if you are looking for IT professionals. In Germany LinkedIn is still well represented, but the most popular job portal for IT professionals in Germany is Xing.
 
 ## How does the salary differ between genders based on years of coding?
@@ -41,7 +41,7 @@ In summary, answering these questions has provided some clues for companies look
 This enables companies, that are looking for qualified IT professionals, to identify some key data about the target group and use that knowledge to achieve their goals.
 
 ## Detailed analysis report on Medium:
-...
+https://medium.com/@allissat.nicole/seeking-professionals-460ede154455
 
 ## Requirements
 pandas, jupyter-notebook

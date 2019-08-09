@@ -41,3 +41,7 @@ Nowadays companies have to offer their IT professionals much more than just a go
 
 ### Findings
 64 % of the survey participants do at least some of their work remote. On the table below you can see that the size of the company doesn´t have much impact on the amount that IT professionals work remote. There is just a slightly higher proportion of remote working IT professionals in particularly large or particularly small companies.
+
+## Conclusion
+In summary, answering these questions has provided some clues for companies looking for IT professionals. In addition to the preferred job portals of developers worldwide and in Germany, it has also been determined what payment IT professionals are offered depending on their professional experience. Also these results determined to what extent IT professionals carry out their work remotely.
+This enables companies, that are looking for qualified IT professionals, to identify some key data about the target group and use it to achieve their goals.

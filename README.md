@@ -1,4 +1,4 @@
-# IT professionals
+# Seeking answers for current HR questions
 *A data based approach based on the results of Stack Overflow developer survey data (2017). The survey data was taken by more than 50,000 participants and aims to understand different aspects of job related questions (the full dataset can be found here: https://www.kaggle.com/stackoverflow/so-survey-2017).*
 
 ## Introduction

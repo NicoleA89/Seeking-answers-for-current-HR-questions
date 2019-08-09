@@ -44,4 +44,4 @@ Nowadays companies have to offer their IT professionals much more than just a go
 
 ## Conclusion
 In summary, answering these questions has provided some clues for companies looking for IT professionals. In addition to the preferred job portals of developers worldwide and in Germany, it has also been determined what payment IT professionals are offered depending on their professional experience. Also these results determined to what extent IT professionals carry out their work remotely.
-This enables companies, that are looking for qualified IT professionals, to identify some key data about the target group and use it to achieve their goals.
+This enables companies, that are looking for qualified IT professionals, to identify some key data about the target group and use that knowledge to achieve their goals.
